@@ -31,7 +31,7 @@ PDFSense is a powerful Streamlit-based web app that lets you upload one or more 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jdesai05/pdfsense.git
+git clone https://github.com/jdesai05/PDFSenseAI.git
 ````
 
 ### 2. Install Dependencies
