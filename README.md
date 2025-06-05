@@ -1,6 +1,3 @@
-Here is the **complete README in markdown format**:
-
-````markdown
 # 📚 PDFSense — Intelligent PDF Chatbot using LLMs
 
 PDFSense is a powerful Streamlit-based web app that lets you upload one or more PDF documents and interact with them conversationally using a Large Language Model (LLM). The app uses Hugging Face's `Flan-T5` model to answer questions based on the uploaded PDF content.
